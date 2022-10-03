@@ -13,7 +13,7 @@
 <body class="">
     <nav class="navbar navbar-expand-lg p-3 bg-white shadow-sm">
         <div class="container">
-            <h5 class="mx-auto"><a class="navbar-brand fw-semibold" href="/">E-Cloth</a></h5>
+            <h5 class="mx-auto"><a class="navbar-brand fw-semibold" href="/">Gundam</a></h5>
             
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
                 aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">

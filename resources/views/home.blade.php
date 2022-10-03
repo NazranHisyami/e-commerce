@@ -4,8 +4,8 @@
 <div id="carouselExampleSlidesOnly" class="carousel slide mt-0" data-bs-ride="carousel">
     <div class="carousel-inner">
         <div class="carousel-item active position-relative">
-            <h1 class="position-absolute text-white top-50 start-50 translate-middle fw-bold" style="z-index: 2; font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif">Curation For You</h1>
-            <img src="photo/pakaian.jpg" class="d-block w-100" alt="..." height="450" style="filter: opacity(70%)">
+            <h1 class="position-absolute text-white top-50 start-50 translate-middle fw-bold" style="z-index: 2; font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif">E-Commerce</h1>
+            <img src="photo/banner.jpg" class="d-block w-100" alt="..." height="500">
         </div>
     </div>
 </div>
